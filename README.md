@@ -51,11 +51,6 @@ Titanic-Survival-Analysis/
 - Embarkation patterns
 - Family size and survival relationships
 
-## Project Status
-**Current Phase:** Exploratory Data Analysis (EDA)
-
-Machine learning implementation and survival prediction are planned as future extensions.
-
 ## Author
 **Sakshi Kumari**
 
